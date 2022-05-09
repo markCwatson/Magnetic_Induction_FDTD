@@ -2,4 +2,4 @@ This is a Finite Difference Time Domain (FDTD) simulator configured to simulate 
 
 This was part of my Masters of applied Science degree thesis at Dalhousie University.
 
-See thesis [here] (https://dalspace.library.dal.ca//handle/10222/79705) for details.
+See thesis [here](https://dalspace.library.dal.ca//handle/10222/79705) for details.
