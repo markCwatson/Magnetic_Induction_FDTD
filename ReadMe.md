@@ -6,4 +6,4 @@ This was part of my Masters of Applied Science degree at Dalhousie University.
 
 See thesis [here](https://dalspace.library.dal.ca//handle/10222/79705) for details.
 
-[result]: https://github.com/markCwatson/FdtdSimulator/gif/result.gif
+[result]: https://github.com/markCwatson/FdtdSimulator/tree/main/gif/result.gif
